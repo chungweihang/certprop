@@ -1,5 +1,5 @@
 # CertProp
-This is a MATLAB implementation of CertProp, a probabilistic trust model for multiagent systems, as described in our papers:
+This is a MATLAB/Java implementation of CertProp, a probabilistic trust model for multiagent systems, as described in our papers:
 
 - Yonghong Wang, Chung-Wei Hang, and Munindar P. Singh [A Probabilistic Approach for Maintaining Trust Based on Evidence](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/JAIR-11-trust.pdf) (JAIR 2011)
 
